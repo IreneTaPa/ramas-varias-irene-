@@ -1,6 +1,5 @@
-# Control de Versiones 
+# Control de Versiones
 
-explicacion 
+explicacion
 
-## subtitulo 
-
+## subtitulo
